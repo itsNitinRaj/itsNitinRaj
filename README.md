@@ -1,4 +1,4 @@
-## >_ print("Hi there 👋") 
+# >_ print("Hi there 👋") 
 
 <!--
 **itsNitinRaj/itsNitinRaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
